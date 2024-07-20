@@ -29,7 +29,7 @@ Assemble the sensors, microcontroller, power supply, and other components on a c
 Develop the necessary software/firmware to control the sensors, collect data, a
 
 Helo pranav
-
+heeeeeeeeeeeeeeeee
 
 stestiwith known samples to ensure accuracy and reliability.
 Calibrate the sensors regularly to maintain precision.
