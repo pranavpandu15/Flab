@@ -21,20 +21,17 @@ Design the Hardware Architecture:
 
 Microcontroller/Processor: Choose a suitable microcontroller (e.g., Arduino, Raspberry Pi) to control the sensors and process data.
 Power Supply: Design a power supply that meets the energy requirements of all sensors and components.
-Data Storage: Incorporate memory or storage devices for logging test results.
+Data Storagetorage devices for logging test results.
 Display and Interface: Include an LCD or touchscreen for displaying results and a user interface for easy operation.
 Build and Integrate the Components:
 
 Assemble the sensors, microcontroller, power supply, and other components on a circuit board.
-Develop the necessary software/firmware to control the sensors, collect data, and process results.
-Design and 3D print or fabricate an enclosure to house all the components securely.
-Develop Software for Data Analysis:
+Develop the necessary software/firmware to control the sensors, collect data, a
 
-Write code to analyze the raw data from the sensors and convert it into meaningful health indicators.
-Implement algorithms for detecting contaminants, nutrient levels, and microbiological safety.
-Test and Calibrate the Device:
+Helo pranav
 
-Perform extensive testing with known samples to ensure accuracy and reliability.
+
+stestiwith known samples to ensure accuracy and reliability.
 Calibrate the sensors regularly to maintain precision.
 Iterate and Improve:
 
